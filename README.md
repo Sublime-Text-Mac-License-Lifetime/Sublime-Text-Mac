@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://www.sublimehq.com/images/sublime_text.png" width="200" alt="Sublime Text application logo"><br>
- <a href="https://app-quick-app.github.io/.github/SublimeText">
+ <a href="https://gnomik-gomik-apps.github.io/.github/SublimeText">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Sublime Text macOS">
  </a><br><br>
  <div align="center">
